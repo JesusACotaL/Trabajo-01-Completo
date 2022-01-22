@@ -1,0 +1,97 @@
+
+body {
+	font-family: 'Roboto', sans-serif;
+	transition: all 0.5s;
+	background-color: #000000;
+}
+p {
+	margin-bottom: 0px;
+	font-size: 14px;
+	color: #ffffff;
+	line-height: 24px;
+}
+a {
+	text-decoration: none!important;
+}
+
+.section-heading {
+	margin-top: 80px;
+	margin-bottom: 40px;
+}
+
+.section-heading .line-dec {
+	width: 30px;
+	height: 5px;
+	background-color: #ffffff;
+}
+
+.section-heading h1 {
+	font-size: 22px;
+	font-weight: 700;
+	color: #ffffff;
+	margin-top: 15px;
+}
+
+#pre-header {
+	background-color: #845f96;
+	text-align: center;
+}
+#pre-header span {
+	color: #fff;
+	font-size: 25px;
+	padding: 10px 0px;
+	display: inline-block;
+}
+
+
+.banner {
+	margin-top: 50px;
+	background-image: url(../images/retrato.jpeg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding: 150px 0px;
+	background-position: center center;
+}
+.banner .caption {
+	background-color: #845f96;
+	padding: 30px;
+	max-width: 450px;
+}
+.banner .caption h2 {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #ffffff;
+}
+.banner .caption .line-dec {
+	width: 30px;
+	height: 5px;
+	background-color: #000000;
+}
+.banner .caption p {
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.information {
+	background-color: #845f96;
+	padding: 50px 0px;
+	text-align: center;
+}
+.information .section-heading  {
+	margin-top: 0px;
+}
+.information .section-heading .line-dec {
+	background-color: #fff;
+	margin: 0 auto;
+}
+.information .main-content p {
+	font-size: 25px;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.information .main-content form  {
+	color: #fff;
+	display: inline;
+}
